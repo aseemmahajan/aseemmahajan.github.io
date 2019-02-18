@@ -6,6 +6,10 @@ Department of Government<br>
 Cambridge, MA 02138
 
 ## Education
+ <ul style="list-style-type:none;">
+  <li>**Harvard University** <br> Ph. D. Government, 2020 (EXP) <br> A.M. Statistics, 2020 (EXP)</li>
+  <li> **Princeton University**, 2005-2009 <br> A.B. Politics <br> Certificates in Political Economy and Finance (with Honors)
+</ul> 
 
 ## Research interests
 
